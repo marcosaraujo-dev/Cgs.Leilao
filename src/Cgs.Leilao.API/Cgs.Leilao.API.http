@@ -1,0 +1,6 @@
+@Cgs.Leilao.API_HostAddress = http://localhost:5239
+
+GET {{Cgs.Leilao.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
