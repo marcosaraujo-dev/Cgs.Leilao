@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cgs.Leilao.API.props" />
+</Project>
