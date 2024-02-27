@@ -12,7 +12,7 @@
   <img src="images/logoCygnusTech.png" width="50%" \>
   </p>
 
-<h1 align="center">Projeto XXX</h3>
+<h1 align="center">Projeto Leilão</h3>
 
 <!-- ABOUT THE PROJECT -->
 
@@ -22,10 +22,10 @@ Projeto criado para aprendizagem da linguagem C#, seguindo aulas da plataforma R
 
 
 <h4>Title</h4>
-Description
-<p align="center>
-<img src="src/images/xxx.jpg" \>
-  </p>
+Cgs.Leilao.
+<p align="center">
+O projeto consiste a aprendizagem da criação de uma API para listar leilões ativos e fazer um usuário dar um ou mais lances em um leilão
+</p>
 <br/>
 
 
@@ -43,19 +43,14 @@ Description
 
 
 ### Databases
-![image](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 ### Designer
 ![Figma](https://img.shields.io/badge/draw.io-%002E3B.svg?style=for-the-badge&logo=draw.io&logoColor=white)
 
 ### Testing
 
-![JUnit](https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![MSTest](https://img.shields.io/badge/MSTest-234a4a4a?style=for-the-badge&logo=MSTest&logoColor=white)
-![NUnit](https://img.shields.io/badge/NUnit-16B7FB?style=for-the-badge&logo=NUnit&logoColor=white)
+![XUnit](https://img.shields.io/badge/XUnit-16B7FB?style=for-the-badge&logo=XUnit&logoColor=white)
 
 <!-- CONTACT -->
 
@@ -70,13 +65,11 @@ Project Link: [Cgs.Leilao](https://github.com/marcosaraujo-dev/Cgs.Leilao)
 <!-- ACKNOWLEDGMENTS -->
 
 ## Agradecimentos
-![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![image](https://img.shields.io/badge/RocketSeat-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
 
--   [XXXXXXX](https://XXXXXX/)
+-   [RocketSeat](https://app.rocketseat.com.br/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
